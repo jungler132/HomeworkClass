@@ -1,0 +1,11 @@
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.exe
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.deps.json
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.runtimeconfig.json
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.runtimeconfig.dev.json
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.dll
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\bin\Debug\netcoreapp3.1\HomeworkClassTask5.pdb
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\obj\Debug\netcoreapp3.1\HomeworkClassTask5.csprojAssemblyReference.cache
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\obj\Debug\netcoreapp3.1\HomeworkClassTask5.AssemblyInfoInputs.cache
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\obj\Debug\netcoreapp3.1\HomeworkClassTask5.AssemblyInfo.cs
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\obj\Debug\netcoreapp3.1\HomeworkClassTask5.dll
+C:\Users\Elgiz\source\repos\HomeworkClassTask5\HomeworkClassTask5\obj\Debug\netcoreapp3.1\HomeworkClassTask5.pdb
