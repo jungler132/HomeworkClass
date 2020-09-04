@@ -80,6 +80,7 @@ namespace HomeworkClassTask6
             Console.WriteLine("\nЭлементы массива:");
             for (int i = 0; i < rows; i++)
             {
+               
                 for (int j = 0; j < columns; j++)
                 {
                     Console.Write(DoubleArray[i, j] + "; ");
@@ -93,12 +94,13 @@ namespace HomeworkClassTask6
             int columns = DoubleArray.Length / rows;
             for (int i = 0; i < rows; i++)
             {
+                
                 for (int j = 0; j < columns-1; j++)
                 {
                    for(int e = j+1; e<columns; e++)
                     {
                         double fortime;
-                        if(DoubleArray[i, j] > DoubleArray[i, e])
+                        if(DoubleArray[i, j] < DoubleArray[i, e])
                         {
                             fortime = DoubleArray[i, j];
                             DoubleArray[i, j] = DoubleArray[i, e];
@@ -111,6 +113,7 @@ namespace HomeworkClassTask6
             Console.WriteLine("\nОтсортированные строки:");
             for (int i = 0; i < rows; i++)
             {
+                Console.WriteLine($"\nСтрока {i+1}");
                 for (int j = 0; j < columns; j++)
                 {
                     Console.Write(DoubleArray[i, j] + "; ");
