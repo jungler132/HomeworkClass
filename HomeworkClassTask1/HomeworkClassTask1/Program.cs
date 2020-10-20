@@ -61,6 +61,7 @@ namespace HomeworkClassTask1
             Point point1 = new Point(CoordinateX, CoordinateY);
             Console.WriteLine("Точка с нулевыми координатами.");
             Point point2 = new Point();
+            Console.ReadKey();
 
         }
        public static int  EnterNum()
@@ -82,7 +83,7 @@ namespace HomeworkClassTask1
                 }
                 while (isRight == false);
                 return number;
-            Console.ReadKey();
+            
         }
         
     }
