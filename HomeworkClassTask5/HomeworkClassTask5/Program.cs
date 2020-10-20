@@ -101,6 +101,7 @@ namespace HomeworkClassTask5
         static void Main(string[] args)
         {
             ArrayWork Array1 = new ArrayWork();
+            Console.ReadKey();
         }
         public static int EnterNum()
         {
@@ -120,7 +121,7 @@ namespace HomeworkClassTask5
                 }
             }
             while (isRight == false);
-            Console.ReadKey();
+            
             return number;
             
         }
