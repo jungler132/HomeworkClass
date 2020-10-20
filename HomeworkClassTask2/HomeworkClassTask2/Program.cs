@@ -124,6 +124,7 @@ namespace HomeworkClassTask2
             }
             while (isRight == false);
             return number;
+            Console.ReadKey();
         }
 
     }
