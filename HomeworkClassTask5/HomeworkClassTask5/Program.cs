@@ -120,7 +120,9 @@ namespace HomeworkClassTask5
                 }
             }
             while (isRight == false);
+            Console.ReadKey();
             return number;
+            
         }
     }
 }
