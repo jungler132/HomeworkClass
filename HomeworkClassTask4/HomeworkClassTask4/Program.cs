@@ -96,6 +96,7 @@ namespace HomeworkClassTask4
         static void Main(string[] args)
         {
             Money money1 = new Money();
+            Console.ReadKey();
         }
        public static int EnterNum()
         {
@@ -119,7 +120,7 @@ namespace HomeworkClassTask4
             }
             while (isRight == false);
             return number;
-           Console.ReadKey();
+           
         }
     }
 }
