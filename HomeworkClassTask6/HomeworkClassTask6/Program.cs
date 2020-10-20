@@ -171,6 +171,7 @@ namespace HomeworkClassTask6
                 }
             }
             while (isRight == false);
+            Console.ReadKey();
             return number;
         }
     }
