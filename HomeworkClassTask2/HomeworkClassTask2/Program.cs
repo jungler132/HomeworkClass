@@ -104,6 +104,7 @@ namespace HomeworkClassTask2
         static void Main(string[] args)
         {
             Triangle tri = new Triangle();
+            Console.ReadKey();
         }
         public static int EnterNum()
         {
@@ -124,7 +125,7 @@ namespace HomeworkClassTask2
             }
             while (isRight == false);
             return number;
-            Console.ReadKey();
+            
         }
 
     }
