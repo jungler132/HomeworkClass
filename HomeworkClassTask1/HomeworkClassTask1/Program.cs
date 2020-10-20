@@ -82,8 +82,9 @@ namespace HomeworkClassTask1
                 }
                 while (isRight == false);
                 return number;
-            
+            Console.ReadKey();
         }
+        
     }
 
 }
