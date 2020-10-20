@@ -102,6 +102,7 @@ namespace HomeworkClassTask3
             }
             while (isRight == false);
             return number;
+            Console.ReadKey();
         }
     }
 }
