@@ -152,6 +152,7 @@ namespace HomeworkClassTask6
         static void Main(string[] args)
         {
             TwoArray array1 = new TwoArray();
+            Console.ReadKey();
         }
         public static int EnterNum()
         {
@@ -171,7 +172,7 @@ namespace HomeworkClassTask6
                 }
             }
             while (isRight == false);
-            Console.ReadKey();
+            
             return number;
         }
     }
