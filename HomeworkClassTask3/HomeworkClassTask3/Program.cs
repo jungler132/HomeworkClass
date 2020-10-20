@@ -82,6 +82,7 @@ namespace HomeworkClassTask3
         static void Main(string[] args)
         {
             Rectangle rect = new Rectangle();
+            Console.ReadKey();
         }
         public static int EnterNum()
         {
@@ -102,7 +103,7 @@ namespace HomeworkClassTask3
             }
             while (isRight == false);
             return number;
-            Console.ReadKey();
+            
         }
     }
 }
