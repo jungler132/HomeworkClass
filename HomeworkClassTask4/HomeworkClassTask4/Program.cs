@@ -119,6 +119,7 @@ namespace HomeworkClassTask4
             }
             while (isRight == false);
             return number;
+           Console.ReadKey();
         }
     }
 }
